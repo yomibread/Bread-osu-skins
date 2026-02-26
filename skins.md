@@ -19,11 +19,11 @@ Welcome to my osu! skin list!
 ---
 ## 🍞⚪ HDDT Skins!
 
-![Preview](https://media.discordapp.net/attachments/860811982592147456/1475259772185084144/screenshot024.jpg?ex=699cd63a&is=699b84ba&hm=16ce31929e782db5541a21903f107db39ec7306ee5417fff763ed8077fcb6559&=&format=webp&width=1489&height=838)
+![Preview](https://media.discordapp.net/attachments/860811982592147456/1475259772185084144/screenshot024.jpg?ex=69a21c3a&is=69a0caba&hm=8c7068b96007070ddd395c0a60271f496e8b61a55df83fbbbf0419b17190c9da&=&format=webp&width=1489&height=838)
 - Name: Rafis Akolibed
 - Download: [Click Here](https://drive.google.com/file/d/1RLJXvIM5F7APPK2GXIObXj0CMfN4MpgA/view?usp=sharing)
 
-![Preview](https://cdn.discordapp.com/attachments/860811982592147456/1475264401954050170/screenshot027.jpg?ex=699cda8a&is=699b890a&hm=4b4c566b458929d8febc2b733984831337e48c421cabb9be0b13f6b0c9533f7e&)
+![Preview](https://media.discordapp.net/attachments/860811982592147456/1475264401954050170/screenshot027.jpg?ex=69a2208a&is=69a0cf0a&hm=699645b28af4c596d8c3c987c92bb8b1cfe4f2ffee87fbbf90cbf6c30fe1350d&=&format=webp&width=1489&height=838)
 - Name: Fwootable DT(Zylice Edit)
 - Download: [Click Here](https://drive.google.com/file/d/18Lvv-KGlIiHPufL6HjltYMaRQAS1IVe2/view?usp=sharing)
 
