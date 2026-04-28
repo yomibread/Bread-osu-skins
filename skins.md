@@ -1,6 +1,6 @@
 # yomibread osu! Skin Collection
 
-Welcome to my osu! skin list!
+Welcome to my friends and I osu! skin list!
 
 
 ## 🍞 Main skin!
