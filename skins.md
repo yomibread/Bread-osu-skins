@@ -26,6 +26,12 @@ Welcome to my friends and I osu! skin list!
 - Name: Boop
 - Download: [Click Here](https://drive.google.com/file/d/1TQS50Hz0cWCQpZwVxDc1shU51GCzFjwG/view?usp=sharing)
 
+<img width="1920" height="1080" alt="screenshot046" src="https://github.com/user-attachments/assets/2213c312-c64d-4980-bf4e-e62c8ed3c56c" />
+
+- Name: Elo320
+- Download: [Click Here](https://drive.google.com/file/d/1CrnP0qyXuzsAGDf3mZ97KqvCUwLK9uXr/view?usp=sharing)
+
+
 <img width="1920" height="1080" alt="screenshot016" src="https://github.com/user-attachments/assets/3f1caf51-1f3f-4e74-ada5-41f9e8dba32f" />
 
 - Name: Rafis Akolibed
