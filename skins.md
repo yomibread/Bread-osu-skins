@@ -45,7 +45,7 @@ Welcome to my friends and I osu! skin list!
 <img width="1920" height="1080" alt="screenshot031" src="https://github.com/user-attachments/assets/a4b88556-fe54-4132-ad02-f1e0c314aa62" />
 
 
-- Name: Chudvy Skin
+- Name: Chudvy DT Skin
 - Download: [Click Here](https://drive.google.com/file/d/18bFi9krO6YO0-gCmrZd3CS2sVD6XwD13/view?usp=sharing)
 
 ---
@@ -55,5 +55,13 @@ Welcome to my friends and I osu! skin list!
 
 - Name: NaPiii's NM V8
 - Download: [Click Here](https://drive.google.com/file/d/1r3CgCBSFUNZpveA0LdNqV2edsLFQ8wf7/view?usp=sharing)
+
+<img width="1920" height="1080" alt="screenshot050" src="https://github.com/user-attachments/assets/a0b4ed40-6571-4fd3-a357-b31a39a92a60" />
+
+- Name Aristia(Edit)+trail
+- Download: [Click Here](https://drive.google.com/file/d/1ldIjwo1aKjCPWgYxGb2gGDjIyMYgCmmL/view?usp=sharing)
+
+
+
 
 
