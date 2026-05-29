@@ -28,6 +28,9 @@ Welcome to my friends and I osu! skin list!
 
 <img width="1920" height="1080" alt="screenshot016" src="https://github.com/user-attachments/assets/3f1caf51-1f3f-4e74-ada5-41f9e8dba32f" />
 
+-Name: Elo320
+-Download[Click Here](https://drive.google.com/file/d/1CrnP0qyXuzsAGDf3mZ97KqvCUwLK9uXr/view?usp=sharing)
+
 - Name: Rafis Akolibed
 - Download: [Click Here](https://drive.google.com/file/d/1RLJXvIM5F7APPK2GXIObXj0CMfN4MpgA/view?usp=sharing)
 
